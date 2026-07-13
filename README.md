@@ -12,6 +12,10 @@
   Dibangun dari nol pakai Next.js 14 (App Router) + TypeScript, sambil belajar konsep dasar React & routing.
 </p>
 
+<p align="center">
+  <a href="https://hoshi-page.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-hoshi--page.vercel.app-ff66cc?style=for-the-badge" alt="Live Demo" /></a>
+</p>
+
 ---
 
 ## 📖 Tentang Project
